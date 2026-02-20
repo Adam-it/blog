@@ -30,16 +30,16 @@ Sounds cool 😎? Let's see some new enhancements we added in this minor release
 
 In this release of SPFx Toolkit we've added support for the currently latest release of SharePoint Framework, which is v1.22.2, to actions that will allow you to validate and setup your local environment for SPFx development, and also to the project validate and upgrade action which will allow you to upgrade your SPFx projects to the any version of the framework, now including 1.22.2. 
 
-The aim is to continue to add support for the latest SPFx releases as soon as they are released so that SPFx Toolkit may be your go-to tool for managing your SPFx projects no matter which version of the framework you are using.
+The aim is to continue to add support for the latest SPFx releases as soon as they are released, so that SPFx Toolkit may be your go-to tool for managing your SPFx projects, no matter which version of the framework you are using.
 
-To check out more about the related actions read the following:
+To check out more about the related actions, read the following:
 - [Validate and setup your local environment for SPFx development](https://pnp.github.io/vscode-viva/features/setup)
 - [Upgrade your SPFx project](https://pnp.github.io/vscode-viva/features/actions/#upgrade-project)
 - [Validate your SPFx project](https://pnp.github.io/vscode-viva/features/actions/#validate-current-project)
 
 ## More AI capabilities to manage your SharePoint Online tenant - Copy SharePoint Online page Language Model Tool
 
-In this release we have added a new Language Model tool to the SPFx Toolkit arsenal of AI capabilities, which allows you to copy SharePoint Online pages. You can use this tool to copy pages from one site to another, or even within the same site. The tool will copy the page structure, web parts, and content, making it easy for you to create new pages based on existing ones. 
+In this release, we have added a new Language Model tool to the SPFx Toolkit arsenal of AI capabilities, which allows you to copy SharePoint Online pages. You can use this tool to copy pages from one site to another, or even within the same site. The tool will copy the page structure, web parts, and content, making it easy for you to create new pages based on existing ones. 
 
 ![Copy page LM Tool](images/copy-page-lm-tool.png)
 
